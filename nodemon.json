@@ -1,0 +1,7 @@
+{
+  "ext": "js,json",
+  "ignore": ["node_modules", ".git"],
+  "execMap": {
+    "js": "node --env-file=.env"
+  }
+}
